@@ -1,3 +1,5 @@
+# We are following the following (terrible) documentation here: https://lhapdf.hepforge.org/codeexamples.html
+
 # (): Import LHDAPDF:
 import lhapdf
 print(lhapdf.version())
